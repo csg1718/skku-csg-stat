@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/csg1718/skku-csg-stat/issues"
   },
-  "homepage": "https://github.com/csg1718/skku-csg-stat#readme"
+  "homepage": "https://github.com/csg1718/skku-csg-stat#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
 }
